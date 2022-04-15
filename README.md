@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @dev-luca-mathuse
+- 👀 I’m interested in coding, reading and music
+- 🌱 I’m currently learning backend related things (APIs, PHP (Laravel), Node.js, jQuery, SQL)
+- 📫 How to reach me luca.mathuse.developer@gmail.com
